@@ -1,12 +1,85 @@
 ini adalah resolusi pplg3 untuk belajar git
-
+-INTRO GIT DAN GITHUB
 -konsisten belajar dan mengejarkan tugas git dan git hub
--praktik Github
+-
 -praktik git
 -belqajar basis data
 -API
+   *register themovie.org
+    *API MOVIEDB
+
 -Dockumen tasi
 -project video streaming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
