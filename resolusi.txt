@@ -1,6 +1,6 @@
 ini adalah resolusi pplg3 untuk belajar git
 -INTRO GIT DAN GITHUB
--konsisten belajar dan mengejarkan tugas git dan git hub
+-konsisten belajar dan mengejarkan tugas git dan git huB
 -
 -praktik git
 -belqajar basis data
